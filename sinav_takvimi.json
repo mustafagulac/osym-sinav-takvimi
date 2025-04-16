@@ -1,0 +1,114 @@
+[
+  {
+    "ad": "e-YDS 2025/1 (İngilizce)",
+    "tarih": "2025-01-18",
+    "saat": "13:45",
+    "basvuru_baslangic": "2025-01-03T14:00",
+    "basvuru_bitis": "2025-01-09T23:59",
+    "sonuc_tarihi": "2025-01-18"
+  },
+  {
+    "ad": "e-YDS 2025/2 (İngilizce)",
+    "tarih": "2025-02-01",
+    "saat": "13:45",
+    "basvuru_baslangic": "2025-01-14T14:00",
+    "basvuru_bitis": "2025-01-23T23:59",
+    "sonuc_tarihi": "2025-02-01"
+  },
+  {
+    "ad": "YÖKDİL 2025/1",
+    "tarih": "2025-02-16",
+    "saat": null,
+    "basvuru_baslangic": "2025-01-03T11:00",
+    "basvuru_bitis": "2025-01-09T23:59",
+    "gec_basvuru_tarihi": "2025-01-16T23:59",
+    "sonuc_tarihi": "2025-03-06"
+  },
+  {
+    "ad": "MSÜ 2025",
+    "tarih": "2025-02-23",
+    "saat": null,
+    "basvuru_baslangic": "2025-01-02T14:30",
+    "basvuru_bitis": "2025-01-27",
+    "gec_basvuru_tarihi": "2025-01-30T23:59",
+    "sonuc_tarihi": "2025-03-18"
+  },
+  {
+    "ad": "Kaymakamlık 2025",
+    "tarih": "2025-02-23",
+    "saat": "10:15",
+    "basvuru_baslangic": "2025-01-10T11:00",
+    "basvuru_bitis": "2025-01-16T23:59",
+    "gec_basvuru_tarihi": "2025-01-23T23:59",
+    "sonuc_tarihi": "2025-03-21"
+  },
+  {
+    "ad": "MEB-EKYS 2025",
+    "tarih": "2025-03-02",
+    "saat": "10:15",
+    "basvuru_baslangic": "2025-01-15T10:00",
+    "basvuru_bitis": "2025-01-21T23:59",
+    "gec_basvuru_tarihi": "2025-01-31T23:59",
+    "sonuc_tarihi": "2025-03-21"
+  },
+  {
+    "ad": "YDS 2025/1",
+    "tarih": "2025-03-09",
+    "saat": "10:15",
+    "basvuru_baslangic": "2025-01-22T11:00",
+    "basvuru_bitis": "2025-01-29T23:59",
+    "gec_basvuru_tarihi": "2025-02-07T23:59",
+    "sonuc_tarihi": "2025-03-28"
+  },
+  {
+    "ad": "TUS 2025 1. Dönem",
+    "tarih": "2025-03-23",
+    "saat": "10:15",
+    "basvuru_baslangic": "2025-02-04T16:15",
+    "basvuru_bitis": "2025-02-12T23:59",
+    "gec_basvuru_tarihi": "2025-02-20T23:59",
+    "sonuc_tarihi": "2025-04-18"
+  },
+  {
+    "ad": "STS Tıp 2025 1. Dönem",
+    "tarih": "2025-03-23",
+    "saat": "10:15",
+    "basvuru_baslangic": "2025-02-04T16:15",
+    "basvuru_bitis": "2025-02-12T23:59",
+    "gec_basvuru_tarihi": "2025-02-20T23:59",
+    "sonuc_tarihi": "2025-04-18"
+  },
+  {
+    "ad": "e-YDS 2025/3 (İngilizce)",
+    "tarih": "2025-04-05",
+    "saat": null,
+    "basvuru_baslangic": "2025-03-18T14:00",
+    "basvuru_bitis": "2025-03-25T23:59",
+    "sonuc_tarihi": "2025-04-05"
+  },
+  {
+    "ad": "e-YDS 2025/4 (İspanyolca/İtalyanca)",
+    "tarih": "2025-04-06",
+    "saat": "13:45",
+    "basvuru_baslangic": "2025-01-23T14:00",
+    "basvuru_bitis": "2025-03-24T23:59",
+    "sonuc_tarihi": "2025-04-06"
+  },
+  {
+    "ad": "e-YDS 2025/5 (Farsça/Yunanca/Bulgarca)",
+    "tarih": "2025-04-12",
+    "saat": "13:45",
+    "basvuru_baslangic": "2025-01-23T14:00",
+    "basvuru_bitis": "2025-04-03T23:59",
+    "sonuc_tarihi": "2025-04-12"
+  },
+  {
+    "ad": "HMGS 2025/1",
+    "tarih": "2025-04-27",
+    "saat": "10:15",
+    "basvuru_baslangic": "2025-03-05T10:30",
+    "basvuru_bitis": "2025-03-17T23:59",
+  }
+  
+]
+ 
